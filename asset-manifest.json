@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ed086736.chunk.css",
+    "main.js": "./static/js/main.b2bfb985.chunk.js",
+    "main.js.map": "./static/js/main.b2bfb985.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/js/2.8a8bc89e.chunk.js": "./static/js/2.8a8bc89e.chunk.js",
+    "static/js/2.8a8bc89e.chunk.js.map": "./static/js/2.8a8bc89e.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.ed086736.chunk.css.map": "./static/css/main.ed086736.chunk.css.map",
+    "static/js/2.8a8bc89e.chunk.js.LICENSE.txt": "./static/js/2.8a8bc89e.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
+    "static/media/ProductsList.scss": "./static/media/arrow-down.0775c6b7.svg",
+    "static/media/BackButton.scss": "./static/media/arrow-left.c0d01b22.svg",
+    "static/media/Pagination.scss": "./static/media/arrow-right.4756c064.svg",
+    "static/media/DropDown.scss": "./static/media/arrow-up.a61ad2d0.svg",
+    "static/media/Header.scss": "./static/media/search.eb670dd9.svg",
+    "static/media/ProductInCart.scss": "./static/media/plus.dea15724.svg",
+    "static/media/AddToButtons.scss": "./static/media/favourites-red.d554a185.svg",
+    "static/media/ProductCard.scss": "./static/media/favourites.ae6669ec.svg",
+    "static/media/BreadCrumbs.scss": "./static/media/home.e110292a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/js/2.8a8bc89e.chunk.js",
+    "static/css/main.ed086736.chunk.css",
+    "static/js/main.b2bfb985.chunk.js"
+  ]
+}
